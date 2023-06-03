@@ -1,0 +1,50 @@
+
+
+.header{
+    background-color: black;
+  
+  }
+
+  .logo h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgba(255, 255, 255, 0.583);
+    font-size: 38px;
+    margin-top: 0;
+    
+  }
+
+  .logo span{
+    color: rgba(1, 249, 236, 0.41);
+  }
+
+  h2 span{
+    font-family: 'Dancing Script', cursive;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+    min-height: 80px;
+    
+  
+  }
+
+  ul{
+    display: flex;
+    margin-left: 20px;
+    align-items: center;
+  
+  }
+  a{
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#ccc;
+    font-size: 22px;
+    font-weight: 100;
+    margin-left: 40px;
+  }
